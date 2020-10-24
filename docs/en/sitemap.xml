@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>wangkath.github.io/website/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="wangkath.github.io/website/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="wangkath.github.io/website/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>wangkath.github.io/website/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="wangkath.github.io/website/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="wangkath.github.io/website/"
+                />
+  </url>
+  
+  <url>
+    <loc>wangkath.github.io/website/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="wangkath.github.io/website/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="wangkath.github.io/website/tags/"
+                />
+  </url>
+  
+</urlset>
