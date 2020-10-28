@@ -2,4 +2,4 @@ baseURL: http://example.org/
 languageCode: en-us
 title: "Katherine Wang"
 theme: "somrat"
-publishDir: docs
+publishDir: public

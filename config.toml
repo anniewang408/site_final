@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "wangkath.github.io/website/"
-publishDir = "docs"
+baseURL = "https://website-e2c11.web.app/"
+publishDir = "public"
 title = "Katherine Wang"
 theme = "somrat"
 # disable language
